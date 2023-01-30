@@ -1,0 +1,11 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Galaxy A5 2017 (a5y17lte)
+Device maintainer: Fellipe O. Lima (Jubscleisson)
+
+===== 30 January, 2023 =====
+- Add OTA Support
+- Enable Smart Pixels
+- Enable blur (if you don't want this, you can disable in dev options)
+- Limit screen recorder's framerate to 60fps
+- Initial Android 12 release

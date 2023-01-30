@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "Fellipe O. Lima (Jubscleisson)",
+			"oem": "Samsung",
+			"device": "Galaxy A5 (2017)",
+			"filename": "crDroidAndroid-12.1-20230129-a5y17lte-v8.13.zip",
+			"download": "https://sourceforge.net/projects/jubs-builds/files/a5y17lte/crDroid/8.x/crDroidAndroid-12.1-20230129-a5y17lte-v8.13.zip/download",
+			"timestamp": 1674968815,
+			"md5": "cf55578a595c4784b3bf4f6aa504b7c0",
+			"sha256": "d913dd70bf680c83daa2d54e8c893beb223da9cdf4afdf8d19655157d9995812",
+			"size": 871272325,
+			"version": "8.13",
+			"buildtype": "Monthly",
+			"forum": "",
+			"gapps": "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-SL/",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "https://sourceforge.net/projects/jubs-builds/files/a5y17lte/crDroid/8.x/recovery/crDroidAndroid-12.1-20230129-a5y17lte-v8.13-recovery.img/download",
+			"paypal": "https://ko-fi.com/jubscleisson",
+			"telegram": "https://t.me/joinchat/IJCE2UV-5IO4CO9LiVgIag",
+			"dt": "",
+			"common-dt": "",
+			"kernel": ""
+		}
+	]
+}
