@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "Fellipe O. Lima (Jubscleisson)",
+			"oem": "Samsung",
+			"device": "Galaxy A7 (2017)",
+			"filename": "crDroidAndroid-12.1-20230129-a7y17lte-v8.13.zip",
+			"download": "https://sourceforge.net/projects/jubs-builds/files/a7y17lte/crDroid/8.x/crDroidAndroid-12.1-20230129-a7y17lte-v8.13.zip/download",
+			"timestamp": 1674969805,
+			"md5": "167252e0c9d670549644425cf563163f",
+			"sha256": "8b843e1671c22d81eef91a75987b7deb4291a03b087c9e1ae9cf388f67e58353",
+			"size": 871050266,
+			"version": "8.13",
+			"buildtype": "Monthly",
+			"forum": "",
+			"gapps": "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-SL/",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "https://sourceforge.net/projects/jubs-builds/files/a7y17lte/crDroid/8.x/recovery/crDroidAndroid-12.1-20230129-a7y17lte-v8.13-recovery.img/download",
+			"paypal": "https://ko-fi.com/jubscleisson",
+			"telegram": "https://t.me/joinchat/IJCE2UV-5IO4CO9LiVgIag",
+			"dt": "",
+			"common-dt": "",
+			"kernel": ""
+		}
+	]
+}
